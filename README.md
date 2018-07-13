@@ -1,4 +1,4 @@
-# Predicting Stock Prices
+# Predicting Stock Prices with Machine Learning Algorithms
 
 Attempting to predict stock market prices with machine learning algorithms. The two approaches in the project were by recurrent neural networks with LSTM and by the Facebook's Prophet tool.
 
